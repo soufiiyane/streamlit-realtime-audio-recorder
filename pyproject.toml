@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling>=1.26.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "streamlit-realtime-audio-recorder"
+version = "0.1.1"
+authors = [
+  { name="Soufiyane AIT MOULAY", email="soufiyane.aitmoulay@gmail.com" },
+]
+description = "A Streamlit component that records audio with real-time silence detection"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "streamlit>=1.0.1",
+]
+
+[project.urls]
+"Bug Tracker" = "https://github.com/soufiiyane/streamlit-realtime-audio-recorder/issues"
