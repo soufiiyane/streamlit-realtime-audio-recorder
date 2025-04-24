@@ -44,19 +44,7 @@ if result:
 
 # Demo
 
-<table>
-<tr>
-<td width="50%">
-<h3>🎤 Streamlit Realtime Audio Recorder</h3>
-<p>Real-time audio recording directly in your Streamlit app.</p>
-<video width="100%" controls>
-  <source src="https://github.com/soufiiyane/streamlit-realtime-audio-recorder/raw/main/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</td>
-</tr>
-</table>
-
+https://github.com/user-attachments/assets/acd2b615-3df2-4134-94b7-f496437be904
 
 ## How It Works
 
